@@ -3,6 +3,7 @@ Un blog increible para el curso de Git y Github de Platzi
 
 > "Donde las ideas para un mejor futuro nacen."
 
+* Puedes entrar desde tu celular 
 * Creado por un simple estudiante
 * Esto es para todas las edades
 
